@@ -1,0 +1,112 @@
+#container{
+    width: 1440px;
+    height: 122px;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 1);
+
+}
+#header{
+   font-size: 30px;
+   margin-left: 170px;
+   transform: translateY(22px);
+}
+ #nav li{
+    width: 60px;
+height: 17px;
+top: 57px;
+left: 871.07px;
+gap: 0px;
+opacity: 0px;
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 600;
+line-height: 17.07px;
+text-align: left;
+color: rgba(51, 51, 51, 1);
+margin: 50px;  
+list-style-type: none;                
+ }
+ 
+ #nav ul{
+    display: flex;
+    margin-left: 700px;
+    margin-top: -60px;
+    
+ }
+ 
+img{
+ width: 1820px;
+ height: 1100px;
+ margin-top: -660px;
+}
+.card{
+width: 643px;
+height: 443px;
+margin-top: 200px;
+margin-left: 900px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+background: rgba(223, 233, 244, 1);
+transform: translateY(140px);
+}
+
+.cardone{
+  
+    width: 559px;
+    height: 365px;
+    margin-left: 42px;
+    border-radius: 50px 0px 0px 0px;
+    background: rgba(223, 233, 244, 1);
+    transform: translateY(35px);
+
+}
+h3{
+    width: 126px;
+height: 20px;
+top: 314px;
+left: 746px;
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 600;
+line-height: 19.5px;
+letter-spacing: 3px;
+text-align: left;
+color: rgba(17, 17, 17, 1);
+}
+
+h1{
+    width: 559px;
+height: 127px;
+top: 354px;
+left: 746px;
+gap: 0px;
+opacity: 0px;
+font-family: Montserrat;
+font-size: 52px;
+font-weight: 700;
+line-height: 65px;
+text-align: left;
+color: rgba(5, 76, 115, 1);
+
+}
+p{
+font-family: Montserrat;
+font-size: 18px;
+font-weight: 500;
+line-height: 39px;
+text-align: left;
+color: rgba(17, 17, 17, 1);
+
+}
+button{
+ border: none;   
+ width: Hug (229px)px;
+height: Hug (50px)px;
+padding: 25px 72px 25px 72px;
+border-radius: 50px 50px 50px 50px;
+background: rgba(5, 76, 115, 1);
+ color:white;
+ font-size: 18px;
+}
